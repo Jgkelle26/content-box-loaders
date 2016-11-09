@@ -32,7 +32,7 @@ ul{
 }
 
 li{
-  background: linear-gradient(120deg, #f5f5f5, #dedede, #dedede, #e8e8e8);
+  background: linear-gradient(120deg, #f5f5f5, #dedede, #dedede, #c7c6c6);
   background-size: 700% 700%;
   margin:0 0 13px 0;
   -webkit-animation: li-c 1.3s infinite ease-in-out;
